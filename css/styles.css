@@ -79,3 +79,8 @@ section h1 {
     margin-bottom: 1rem;
     color: #333;
 }
+
+footer {
+    text-align: center;
+    padding: 2rem;
+}
